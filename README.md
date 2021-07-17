@@ -66,7 +66,6 @@ I am deox, coder from Czechia. I found myself in Python.
 ## CI
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
 
 ## Other
 
