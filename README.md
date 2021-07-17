@@ -96,12 +96,12 @@ I am deox, coder from Czechia. I found myself in Python.
 
 ## Gaming
 
-![Steam](https://img.shields.io/badge/steam%20-eboy%20kubuś%20uwu-%232088FF.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzivatel)
+[![Steam](https://img.shields.io/badge/steam%20-eboy%20kubuś%20uwu-%232088FF.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzivatel)
 
 ## Contact
 
-![mail](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:root@deox.space)
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](deox#1111)
+[![mail](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:root@deox.space)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](deox#1111)
 
 ## Donate
 
