@@ -11,7 +11,7 @@ I am deox, coder from Czechia. I found myself in Python.
 
 - 👯 I’m looking to collaborate on: **anything free and open source**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/deox1111?tab=repositories)
+- 👨‍💻 All projects are private, I'll release them after I finish them :D 
 
 - 🔭 I’m currently working on: [legend.](https://legend.deox.space) my discord bot
 
