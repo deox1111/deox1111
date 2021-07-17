@@ -101,7 +101,7 @@ I am deox, coder from Czechia. I found myself in Python.
 ## Contact
 
 [![mail](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:root@deox.space)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](deox#1111)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ARWZYDFcJ6)
 
 ## Donate
 
