@@ -1,7 +1,7 @@
 # Hi there
 
 Welcome to my profile!  
-I am deox, coder from Czechia. I found myself in Python.
+I'am deox, coder from Czechia. I found myself in Python.
 
 - 🌱 I’m currently learning: **C++**
 
@@ -13,7 +13,7 @@ I am deox, coder from Czechia. I found myself in Python.
 
 - 👨‍💻 All projects are private, I'll release them after I finish them :D 
 
-- 🔭 I’m currently working on: [legend.](https://legend.deox.space) my discord bot
+- 🔭 I’m currently working on: [swaggers.xyz](https://swaggers.xyz) | just a little bit of everything
 
 
 
