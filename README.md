@@ -1,7 +1,7 @@
 # Hi there
 
 Welcome to my profile!  
-I'am deox, coder from Czechia. I found myself in Python.
+I'm deox, coder from Czechia. I found myself in Python.
 
 - 🌱 I’m currently learning: **C++**
 
