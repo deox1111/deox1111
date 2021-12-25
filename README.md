@@ -88,7 +88,7 @@ I'm deox, coder from Czechia. I found myself in Python.
 
 ## Social
 
-[![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deoxin_)
+[![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deox1111)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deoxin_)
 [![spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/c0sgyo52z09hedis7oabmza31?si=c1627d75e2a64662)
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/deox1111)
